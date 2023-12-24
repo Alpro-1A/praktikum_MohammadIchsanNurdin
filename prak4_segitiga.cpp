@@ -3,8 +3,6 @@ using namespace std;
 int main () {
     int n;
     cout << "membuat segitiga sama kaki dengan tinggi n baris" << endl;
-    cout << "=" << endl;
-    cout << "=" << endl;
     cout << "masukan nilai n : ";
     cin >> n;
 
